@@ -33,7 +33,9 @@ The Product Page showcases our amazing product, providing users with detailed in
 ##### Specifications: List technical specifications, dimensions, materials, or any relevant details.
 ##### Pricing: Clearly display the product’s price, discounts, and any special offers.
 
+
 <img width="947" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/d662f133-213e-44b1-9f7c-a83070fc95b7">
+
 
 <img width="949" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/f685d14a-e36b-4079-87d2-44f52fb95512">
 
