@@ -10,6 +10,11 @@ This project is a clone of Croma, a popular online platform for purchasing elect
 - Shopping Cart: Allow users to add products to their cart, view the items they have selected, and proceed to checkout.
 - Checkout Process: Guide users through the payment process, including entering shipping and payment information.
 
+## HOMEPAGE
+This is the landing page which includes Navbar(login ehich enables user to signup & signin, cart which navigates user to cart page), which is common throughout website and also features the various categories of products as carousels.
+<img width="949" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/16e910ac-fd7c-402b-b18e-3297e7ec4baf">
+
+
 ## Technologies Used
 - Frontend: HTML, CSS, JavaScript (React.js)
   - UI Frameworks: Tailwind CSS, Chakra UI
