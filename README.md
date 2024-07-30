@@ -118,9 +118,5 @@ The footer is the bottom section of the homepage, providing quick access to vari
 ##### Frontend: HTML, CSS, JavaScript (React.js)
   - UI Frameworks: Tailwind CSS, Chakra UI
 
-## Deployment Link 
-https://croma-replica.netlify.app/
-
-  
 
 
