@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/3fc89178-4818-4f25-b861-3fd4256ed426)
 # Croma Clone Education Project
 
 ## Disclaimer
@@ -21,6 +20,8 @@ It replicates the core functionalities of the original website, allowing users t
 ## HOMEPAGE
 
 This is the landing page which includes Navbar(login ehich enables user to signup & signin, cart which navigates user to cart page), which is common throughout website and also features the various categories of products as carousels.
+
+![image](https://github.com/user-attachments/assets/b3b83a2c-3a24-4e15-9a2c-3064542cb808)
 
 <img width="949" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/16e910ac-fd7c-402b-b18e-3297e7ec4baf">
 
