@@ -1,5 +1,5 @@
 
-# Croma Clone Project
+# Croma Clone Education Project
 
 ## Disclaimer
 
@@ -9,7 +9,7 @@ For more information about the official Croma website, please visit [www.croma.c
 
 
 ## Description
-This project is a clone of Croma, a popular online platform for purchasing electronics and appliances. It replicates the core functionalities of the original website, allowing users to browse products, add them to their cart, and make purchases.
+It replicates the core functionalities of the original website, allowing users to browse products, add them to their cart, and make purchases.
 
 ## Features
 
