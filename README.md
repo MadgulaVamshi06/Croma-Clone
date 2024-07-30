@@ -1,4 +1,4 @@
-
+![image](https://github.com/user-attachments/assets/3fc89178-4818-4f25-b861-3fd4256ed426)
 # Croma Clone Education Project
 
 ## Disclaimer
