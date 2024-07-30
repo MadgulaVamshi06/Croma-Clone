@@ -23,13 +23,13 @@ This is the landing page which includes Navbar(login ehich enables user to signu
 
 ![image](https://github.com/user-attachments/assets/b3b83a2c-3a24-4e15-9a2c-3064542cb808)
 
-<img width="949" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/16e910ac-fd7c-402b-b18e-3297e7ec4baf">
 
 ## Login && Signup Page
 
 The Login Page serves as the gateway to our application, ensuring that only authorized users can access the features and data within the application
 
-<img width="947" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/2032a678-794b-4ef8-92ff-3583bf7da656">
+![image](https://github.com/user-attachments/assets/53c7edea-7fd1-4553-a351-28f9b8ceccd2)
+
 
 ## Product Page
 
