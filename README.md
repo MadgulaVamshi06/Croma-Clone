@@ -1,4 +1,3 @@
-
 # Croma Clone Education Project
 
 ## Disclaimer
@@ -22,13 +21,15 @@ It replicates the core functionalities of the original website, allowing users t
 
 This is the landing page which includes Navbar(login ehich enables user to signup & signin, cart which navigates user to cart page), which is common throughout website and also features the various categories of products as carousels.
 
-<img width="949" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/16e910ac-fd7c-402b-b18e-3297e7ec4baf">
+![image](https://github.com/user-attachments/assets/b3b83a2c-3a24-4e15-9a2c-3064542cb808)
+
 
 ## Login && Signup Page
 
 The Login Page serves as the gateway to our application, ensuring that only authorized users can access the features and data within the application
 
-<img width="947" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/2032a678-794b-4ef8-92ff-3583bf7da656">
+![image](https://github.com/user-attachments/assets/53c7edea-7fd1-4553-a351-28f9b8ceccd2)
+
 
 ## Product Page
 
@@ -42,14 +43,16 @@ The Product Page showcases our amazing product, providing users with detailed in
 ##### Pricing: Clearly display the product’s price, discounts, and any special offers.
 
 
-<img width="947" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/d662f133-213e-44b1-9f7c-a83070fc95b7">
+![image](https://github.com/user-attachments/assets/96132a8c-930d-4c17-9c3b-4476fb0a730d)
 
 
-<img width="949" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/f685d14a-e36b-4079-87d2-44f52fb95512">
+![image](https://github.com/user-attachments/assets/0a9c78e6-6672-4d27-a9b3-42fcce461282)
+
 
 ### Filter Options
 
-<img width="943" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/fd0dd5dd-4510-4939-ba2d-618d074bfe9e">
+![image](https://github.com/user-attachments/assets/8851962a-375e-4cd0-979a-5c891a2d1db0)
+
 
 ## Single Product Page
 
@@ -66,7 +69,9 @@ The Single Product Page showcases our exceptional product, offering detailed inf
 
 #### Adding To Cart
 
-<img width="955" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/5f7002c4-80e3-4be9-ba6d-e6b4c27e75a2">
+![image](https://github.com/user-attachments/assets/3f83e261-7699-41f9-9f0d-c52f7b3b03ab)
+
+
 
 ## Cart Page
 
@@ -82,12 +87,14 @@ The Cart Page is where users manage their selected items before making a purchas
 
 #### Empty Cart
 
-<img width="959" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/4d1aef1e-adc0-4dc3-b6cf-2890303f6e3b">
+![image](https://github.com/user-attachments/assets/9b82f491-64d4-4d8a-b15e-747346175140)
+
 
 
 #### Cart
 
-<img width="949" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/87548095-ea60-4534-b107-af1be400cfb7">
+![image](https://github.com/user-attachments/assets/49201d73-e248-4a71-bcdd-95ae5e65b5b5)
+
 
 ## Checkout Page
 
@@ -98,7 +105,8 @@ The Cart Page is where users manage their selected items before making a purchas
 ##### Order Summary: Display a concise summary of the items in the user’s cart, including product names, quantities, and prices.
 ##### Billing Information: Collect essential details such as billing address, payment method, and contact information.
 
-<img width="958" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/aa7445ff-4ba9-4998-82d9-148cc8b20070">
+![image](https://github.com/user-attachments/assets/0549e565-93e6-4c56-a1e7-06e1e067d501)
+
 
 ## Footer
 
@@ -112,7 +120,8 @@ The footer is the bottom section of the homepage, providing quick access to vari
 ##### Copyright Notice: A statement of ownership over the website’s content.
 ##### This section is designed to help users find information quickly and stay connected with the company.
 
-<img width="944" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/782a5302-2d19-469b-bbe8-a4d06afe2f92">
+![image](https://github.com/user-attachments/assets/c5458c68-2a8d-4de4-8391-ea91a41b1cef)
+
 
 ## Technologies Used
 ##### Frontend: HTML, CSS, JavaScript (React.js)
