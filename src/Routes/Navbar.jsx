@@ -1,5 +1,5 @@
 import React, { useContext } from "react";
-import logo from "../assets/logo.svg";
+// import logo from "../assets/logo.svg";
 import { IoMenuOutline, IoLocationOutline } from "react-icons/io5";
 import { CiSearch } from "react-icons/ci";
 import { GoPencil } from "react-icons/go";
@@ -96,7 +96,7 @@ const Navbar = () => {
               </div>
               <div className="w-20 ">
                 <Link to="/">
-                  <img src={logo} className="w-full" />
+                  <img src="" className="w-full" />
                 </Link>
               </div>
             </div>
