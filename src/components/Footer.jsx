@@ -24,7 +24,7 @@ const Footer = () => {
               {/* Replace with your actual social media icons */}
               <div className="flex">
                 <a
-                  href="https://www.youtube.com/user/CromaRetail"
+                  href="https://www.youtube.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 px-2 "
@@ -32,7 +32,7 @@ const Footer = () => {
                   <AiFillYoutube className="text-2xl  hover:text-youtube" />
                 </a>
                 <a
-                  href="https://www.facebook.com/CromaRetail/"
+                  href="https://www.facebook.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 px-5"
@@ -40,7 +40,7 @@ const Footer = () => {
                   <FaFacebookF className="text-2xl hover:text-iconColour" />
                 </a>
                 <a
-                  href="https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fcroma.retail%2F&is_from_rle"
+                  href="https://www.instagram.com/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 px-5"
@@ -48,7 +48,7 @@ const Footer = () => {
                   <FaInstagramSquare  className="text-2xl"/>
                 </a>
                 <a
-                  href="https://www.linkedin.com/company/infiniti-retail-limited-croma---a-tata-enterprise"
+                  href="https://www.linkedin.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 px-5"
@@ -56,7 +56,7 @@ const Footer = () => {
                   <FaLinkedinIn  className="text-2xl hover:text-iconColour"/>
                 </a>
                 <a
-                  href="https://twitter.com/cromaretail?s=11"
+                  href="https://twitter.com"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="p-2 px-5"
@@ -66,7 +66,7 @@ const Footer = () => {
               </div>
               <div>
                 <p className="mt-8 text-sm">
-                  © Copyright 2023 Croma. All rights reserved.
+                  © Copyright 2023  All rights reserved.
                 </p>
               </div>
             </div>
@@ -77,7 +77,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold mb-4">USEFUL LINKS</h3>
             <div className="md:flex justify-between ">
               <ul className="list-none md:mr-4  " >
-                <Link to="/"  ><li className="mb-2 p-1.5 hover:text-customColor " >About Crome</li></Link>
+                <Link to="/"  ><li className="mb-2 p-1.5 hover:text-customColor " >About </li></Link>
                 
                 <li className="mb-2 p-1.5 hover:text-customColor ">Return Policy</li>
 
