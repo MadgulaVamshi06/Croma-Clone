@@ -69,7 +69,8 @@ The Single Product Page showcases our exceptional product, offering detailed inf
 
 #### Adding To Cart
 
-![image](https://github.com/user-attachments/assets/dc4a9ddc-ebef-4c4e-858d-3b51e4d188a3)
+![image](https://github.com/user-attachments/assets/3f83e261-7699-41f9-9f0d-c52f7b3b03ab)
+
 
 
 ## Cart Page
@@ -86,12 +87,14 @@ The Cart Page is where users manage their selected items before making a purchas
 
 #### Empty Cart
 
-<img width="959" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/4d1aef1e-adc0-4dc3-b6cf-2890303f6e3b">
+![image](https://github.com/user-attachments/assets/9b82f491-64d4-4d8a-b15e-747346175140)
+
 
 
 #### Cart
 
-<img width="949" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/87548095-ea60-4534-b107-af1be400cfb7">
+![image](https://github.com/user-attachments/assets/49201d73-e248-4a71-bcdd-95ae5e65b5b5)
+
 
 ## Checkout Page
 
@@ -102,7 +105,8 @@ The Cart Page is where users manage their selected items before making a purchas
 ##### Order Summary: Display a concise summary of the items in the user’s cart, including product names, quantities, and prices.
 ##### Billing Information: Collect essential details such as billing address, payment method, and contact information.
 
-<img width="958" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/aa7445ff-4ba9-4998-82d9-148cc8b20070">
+![image](https://github.com/user-attachments/assets/0549e565-93e6-4c56-a1e7-06e1e067d501)
+
 
 ## Footer
 
@@ -116,7 +120,8 @@ The footer is the bottom section of the homepage, providing quick access to vari
 ##### Copyright Notice: A statement of ownership over the website’s content.
 ##### This section is designed to help users find information quickly and stay connected with the company.
 
-<img width="944" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/782a5302-2d19-469b-bbe8-a4d06afe2f92">
+![image](https://github.com/user-attachments/assets/c5458c68-2a8d-4de4-8391-ea91a41b1cef)
+
 
 ## Technologies Used
 ##### Frontend: HTML, CSS, JavaScript (React.js)
