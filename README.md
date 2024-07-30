@@ -43,14 +43,16 @@ The Product Page showcases our amazing product, providing users with detailed in
 ##### Pricing: Clearly display the product’s price, discounts, and any special offers.
 
 
-<img width="947" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/d662f133-213e-44b1-9f7c-a83070fc95b7">
+![image](https://github.com/user-attachments/assets/96132a8c-930d-4c17-9c3b-4476fb0a730d)
 
 
-<img width="949" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/f685d14a-e36b-4079-87d2-44f52fb95512">
+![image](https://github.com/user-attachments/assets/0a9c78e6-6672-4d27-a9b3-42fcce461282)
+
 
 ### Filter Options
 
-<img width="943" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/fd0dd5dd-4510-4939-ba2d-618d074bfe9e">
+![image](https://github.com/user-attachments/assets/8851962a-375e-4cd0-979a-5c891a2d1db0)
+
 
 ## Single Product Page
 
@@ -67,7 +69,8 @@ The Single Product Page showcases our exceptional product, offering detailed inf
 
 #### Adding To Cart
 
-<img width="955" alt="image" src="https://github.com/MadgulaVamshi06/Croma-Clone/assets/137890079/5f7002c4-80e3-4be9-ba6d-e6b4c27e75a2">
+![image](https://github.com/user-attachments/assets/dc4a9ddc-ebef-4c4e-858d-3b51e4d188a3)
+
 
 ## Cart Page
 
