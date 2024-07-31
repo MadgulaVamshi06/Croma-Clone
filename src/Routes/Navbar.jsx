@@ -10,6 +10,7 @@ import { Link } from "react-router-dom";
 import { CartContext } from "../context/CartProvider";
 import { AuthContext } from "../context/AuthContext";
 import { useNavigate } from "react-router-dom";
+import { IoHomeOutline } from "react-icons/io5";
 
 const Navbar = () => {
   const { cartItems, setCartItems } = useContext(CartContext);
@@ -29,7 +30,7 @@ const Navbar = () => {
           <div className="p-3 flex items-center gap-12 w-4/5">
             <div className="w-32 min-w-[128px]">
               <Link to="/">
-                <img src="" alt="Image" className="w-full" />
+               <IoHomeOutline/>
               </Link>
             </div>
             <div className="flex items-center">
