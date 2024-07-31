@@ -9,13 +9,12 @@ import {AuthProvider }from './context/AuthContext.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <AuthProvider>
-  <ChakraProvider>
-    <CartProvider>
-     <BrowserRouter>
-    <App />
-  </BrowserRouter>,
-  </CartProvider>,
-  </ChakraProvider>
+    <ChakraProvider>
+      <CartProvider>
+        <BrowserRouter>
+          <App />
+        </BrowserRouter>
+      </CartProvider>
+    </ChakraProvider>
   </AuthProvider>
- 
 )
